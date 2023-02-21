@@ -3,11 +3,11 @@ background-image:url("tailedbeasr.jpg");
 }
 
 .demo{
-  text-alingn:"left";
+  text-align:left;
 }
 .font{
-  text-alingn:"center";
+  text-align:center;
 }
 .bootstrap{
-  text-alingn:"right";
+  text-align:right;
 }
