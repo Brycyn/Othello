@@ -7,7 +7,7 @@ background-image:url("tailedbeasr.jpg");
   overflow: hidden;
 }
 .top{
-display:inline-block;
+display:block;
 }
 .header{
   text-align:center;
