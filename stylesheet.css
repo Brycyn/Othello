@@ -6,3 +6,21 @@ background-image:url("tailedbeasr.jpg");
   height: 350px;
   overflow: hidden;
 }
+.top{
+display:inline-block;
+  text-align:justify;
+}
+.header{
+  text-align:center;
+}.update{
+  text-align:center;
+}
+#css{
+  text-align:left;
+}
+#font{
+  text-align:center;
+}
+#bootstrap{
+  text-align:right;
+}
