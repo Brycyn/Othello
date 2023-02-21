@@ -1,6 +1,10 @@
 
 
-
+html{
+background-image:url("tailedbeasr.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
 .top{
 display:inline-block;
 }
