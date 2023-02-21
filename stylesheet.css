@@ -1,6 +1,8 @@
 html{
 background-image:url("tailedbeasr.jpg");
+background-size: cover;
 }
+
 
 .top{
 display:inline-block;
