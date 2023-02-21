@@ -2,14 +2,8 @@ html{
 background-image:url("tailedbeasr.jpg");
 }
 
-.demo{
-  text-align:left;
-}
-.font{
-  text-align: center;
-}
-.bootstrap{
-  text-align: right;
+.top{
+display:inline-block;
 }
 .header{
   text-align:center;
