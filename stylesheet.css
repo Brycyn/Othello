@@ -6,10 +6,10 @@ background-image:url("tailedbeasr.jpg");
   text-align:left;
 }
 .font{
-  text-align:center;
+  text-align:top center;
 }
 .bootstrap{
-  text-align:right;
+  text-align:top right;
 }
 .header{
   text-align:center;
