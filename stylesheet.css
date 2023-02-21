@@ -2,10 +2,9 @@
 
 html{
 background-image:url("tailedbeasr.jpg");
-background-size: cover;
-background-repeat: no-repeat;
- width: 2000.4px;
- height:400px;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
 }
 .top{
 display:inline-block;
