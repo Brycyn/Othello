@@ -10,3 +10,12 @@ display:inline-block;
 }.update{
   text-align:center;
 }
+#css{
+  text-align:left;
+}
+#font{
+  text-align:center;
+}
+#bootstrap{
+  text-align:right;
+}
