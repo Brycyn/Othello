@@ -15,15 +15,15 @@ display:inline-block;
 }.update{
   text-align:center;
 }
-#css{
+.top #css{
  vertical-align:top;
   text-align:left;
 }
-#font{
+.top #font{
   text-align:center;
    vertical-align:top;
 }
-#bootstrap{
+.top #bootstrap{
   text-align:right;
    vertical-align:top;
 }
