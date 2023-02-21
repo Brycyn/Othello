@@ -16,11 +16,14 @@ display:inline-block;
   text-align:center;
 }
 #css{
+ vertical-align:top;
   text-align:left;
 }
 #font{
   text-align:center;
+   vertical-align:top;
 }
 #bootstrap{
   text-align:right;
+   vertical-align:top;
 }
