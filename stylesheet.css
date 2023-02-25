@@ -5,6 +5,7 @@ background-image:url("tailedbeasr.jpg");
   background-size: cover;
   height: 350px;
   overflow: hidden;
+  margin: 0 auto;
 }
 .top{
 display:inline-block;
