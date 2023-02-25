@@ -9,7 +9,7 @@ background-image:url("tailedbeasr.jpg");
 }
 .top{
 display:inline-block;
-width:33%;
+margin: 0 auto;
 }
 .header{
   text-align:center;
