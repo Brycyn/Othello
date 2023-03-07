@@ -1,0 +1,25 @@
+{
+  "name": "bg",
+  "version": "0.0.1",
+  "description": "This is a web version of reversii",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Brycyn/Othello)"
+  },
+  "keywords": [
+    "reversi",
+    "Brycyn",
+    "First",
+    "App"
+  ],
+  "author": "Brycyn Gossett",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^4.6.1"
+  }
+}
