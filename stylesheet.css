@@ -1,0 +1,30 @@
+
+
+html{
+background-image:url("tailedbeasr.jpg");
+  background-size: cover;
+  height: 350px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.top{
+display:inline-block;
+margin: 0 auto;
+}
+.header{
+  text-align:center;
+}.update{
+  text-align:center;
+}
+.top #css{
+ vertical-align:top;
+  text-align:left;
+}
+.top #font{
+  text-align:center;
+   vertical-align:top;
+}
+.top #bootstrap{
+  text-align:right;
+   vertical-align:top;
+}
