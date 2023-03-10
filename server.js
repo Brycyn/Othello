@@ -4,7 +4,7 @@ let static = require('node-static');
 /* set up http server*/
 let http = require('http');
 
-/* Assume we are eunning on Heroku*/
+/* Assume we are running on Heroku*/
 let port = process.env.PORT;
 let directory = __dirname + '/public';
 /*  if we aren't on Heroku, then we need to adjust our port and directory*/
@@ -20,11 +20,11 @@ let directory = __dirname + '/public';
 let file = new static.Server(directory);
 let app = http.createServer(
     function(request,response){
-        request.addListener('end', function(){
-            file.serve(request.response);
-
-        }
-    ).resume();
+        request.addListener('end',
+            function(){
+                file.serve(request,response);
+            }
+        ).resume();
     }
 ).listen(port);
 
